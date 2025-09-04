@@ -13,13 +13,15 @@
     width: 190px;
     border: solid black 4px;
     margin: 10px;
+    font-size: 36px;
+    text-align: right;
 }
 
 .row {
     /* border: 1px dotted green; */
     display: flex;
     flex-direction: row;
-    /* margin: 0 10px; */
+    /* margin: 0 10px;git  */
 }
 
 .button {
