@@ -6,6 +6,7 @@
     width: 400px;
     justify-content: flex-start;
     align-items: center;
+    background-color: lightblue;
 }
 
 .display {
@@ -16,6 +17,7 @@
     font-size: 36px;
     text-align: right;
     padding: 0 4px;
+    background-color: white;
 }
 
 .pad {
@@ -40,5 +42,6 @@
     font-size: 36px;
     margin: 2px;
     padding: 2px;
+    background-color: white;
 }
 
